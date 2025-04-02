@@ -1,6 +1,6 @@
 # ZenTests
 
-ZenTests contains tests and examples for the [**Zen**](https://github.com/huangli712/Zen) DFT + DMFT computation framework. In other words, it should not be used separately.
+ZenTests contains tests and tutorials for the [**Zen**](https://github.com/huangli712/Zen) DFT + DMFT computation framework. In other words, it should not be used separately.
 
 This project is currently under heavy developement. **PLEASE USE IT AT YOUR OWN RISK!**
 
