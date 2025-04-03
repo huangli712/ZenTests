@@ -1,0 +1,4 @@
+name = "ZenTests"
+uuid = "fa813b63-31cf-460c-9d6c-159db8d29164"
+authors = ["Li Huang <huangli@caep.cn>"]
+version = "0.2.0"
